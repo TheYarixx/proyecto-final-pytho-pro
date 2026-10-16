@@ -1,1 +1,1 @@
-# proyecto-final-pytho-pro
+EcoPulse: una plataforma web interactiva y gamificada que ayuda a los usuarios a reducir su huella de carbono mediante retos diarios medibles, combinando un calculador de impacto local con un generador automatico de memes y visuales atractivos para redes sociales el objetivo es viralizar la conciencia climática y movilizar a las nuevas generaciones a traves de un enfoque divertido, accesible y basado en datos reales
